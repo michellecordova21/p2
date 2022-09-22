@@ -13,7 +13,7 @@ class _AlbumPageState extends State<AlbumPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.black12, //color de fondo
+      backgroundColor: Colors.black26, //color de fondo
       body: cuerpoAlbum(), //formar cuerpo
     );
   }
